@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 C#
-- 🌱 I’m currently learning C#
+- 🔭 Python
+- 🌱 Make stupid programs
