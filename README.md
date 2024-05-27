@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 Python
-- 🌱 Make stupid programs
+- 🔭 C#
+- 🌱 Makes stupid programs
