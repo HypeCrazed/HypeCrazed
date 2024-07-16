@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 C#
-- 🌱 Makes stupid programs
+- 🌱 Main project: Titanium
