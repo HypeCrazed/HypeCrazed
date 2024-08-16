@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 C#
-- 🌱 Main projects: AngryArchive & Titanium
+- 🌱 Main project: Titanium
