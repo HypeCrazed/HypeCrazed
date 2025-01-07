@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 C#
-- 🌱 Main project: StaminaRemovalTool
+- 🌱 Not doing anything rn
