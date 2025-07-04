@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 C#
-- 🌱 Not doing anything rn
+- 🌱 something idk
